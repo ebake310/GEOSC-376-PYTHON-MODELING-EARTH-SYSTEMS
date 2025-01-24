@@ -16,9 +16,9 @@ Python is a powerful tool for analyzing data and modeling Earth and environmenta
 There is no assigned textbook for this course. Readings will be pulled from a variety of sources and made available on Blackboard. In addition, we will use Google Colab (https://colab.google/) for much of the course. Google Colab is an online service that hosts Jupyter Notebooks, in which you can write and visualize Python code. Google Colab will work with your Hamilton College Google Drive, creating a folder for you within your drive once you create your first notebook. You will share your Colab folder with me so that I can grade your assignments and provide you with timely feedback.
 
 #### Grading
-Assignments/Homework – 35%
-In-Class Coding Quizzes “De-Buggers” (Biweekly) – 15%
-Project 1 – 15%
-Project 2 – 20%
-Reading Quizzes – 10%
-Participation/Engaged Attendance – 5%
+Assignments/Homework – 35%\
+In-Class Coding Quizzes “De-Buggers” (Biweekly) – 15%\
+Project 1 – 15%\
+Project 2 – 20%\
+Reading Quizzes – 10%\
+Participation/Engaged Attendance – 5%\
