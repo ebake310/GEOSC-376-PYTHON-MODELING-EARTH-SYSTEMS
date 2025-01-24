@@ -21,4 +21,4 @@ In-Class Coding Quizzes “De-Buggers” (Biweekly) – 15%\
 Project 1 – 15%\
 Project 2 – 20%\
 Reading Quizzes – 10%\
-Participation/Engaged Attendance – 5%\
+Participation/Engaged Attendance – 5%
